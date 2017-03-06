@@ -1,0 +1,5 @@
+<form action="test.php" method="post">
+    <label>Name</label>
+    <input id="name" name="fullname" type="text" value="" />
+    <input id="send" type="submit" value="Send" />
+</form>
